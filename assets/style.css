@@ -4,31 +4,26 @@
     box-sizing: border-box;
 }
 
+/* Header (Logo-links) */
+
 .Logo-links{
     height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    
 }
 
-/* Header (Logo-links) */
-
-.yellowbox{
-    display: inline-block;
-}
-
-._1{
+.yb_1{
     width: 20%; 
  }
  
 
-._2{
+.yb_2{
     width: 40%; 
     text-align: center;
 }
 
-._3{
+.yb_3{
     width: 20%; 
     text-align: end;
  }
@@ -41,10 +36,76 @@
     padding: 50px;
  }
 
- .description-box{
+ .description-content{
     width: 50%;
     height: 100%;
     margin: auto ;
-    
-    
- }
+}
+
+/* Main */
+
+section{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.bg-grey{
+    background-color: #D3D3D3;
+    flex-direction: row-reverse;
+}
+
+.Last{
+    background-color: #23272A;
+}
+
+.Blue{
+    width: 35%;
+    height: 90%;
+}
+
+.Pink{
+    width: 25%;
+    height: 90%;
+}
+
+.GreenBox-Side{
+    height: 800px;
+}
+
+.Green{
+    width: 60%;
+    height: 90%;
+}
+
+.Coral{
+    width: 20%;
+    height: 95%;
+}
+
+.Cian{
+    width: 10%;
+    height: 95%;
+}
+
+hr{
+    color: white;
+}
+
+/* Footer */
+
+.About-Us{
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.Acquamarine_box{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}

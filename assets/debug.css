@@ -1,8 +1,14 @@
+.Box{
+    border: 1px dashed black;
+}
+
+/* Header */
+
 .Logo-links{
     background-color: #ADD8E6;
 }
 
-.yellowbox{
+.Yellow{
     background-color: #DAA520;
     padding: 10px;
     border: 1px dashed black;
@@ -12,7 +18,43 @@
     background-color: #00008B;
 }
 
-.description-box{
+.description-content{
     background-color: #EE82EE;
-    border: 1px dashed black;
+}
+
+/* Main */
+
+.Blue{
+    background-color: #1E90FF;
+}
+
+.Pink{
+    background-color: #FFC0CB;
+}
+
+.Blue,.Pink{
+    padding: 10px;
+}
+
+.Green{
+    background-color: #228B22;
+}
+
+.Coral{
+    background-color: #F08080;
+}
+
+.Cian{
+    background-color: #20B2AA;
+}
+
+
+/* Footer */
+
+.Acquamarine_box{
+    background-color: #7FFFD4;
+}
+
+.Information{
+    background-color: #FFB0BE;
 }
