@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Logo-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Header */
+
+.yellowbox{
+    display: inline-block;
+}
+
+._1{
+    width: 20%; 
+ }
+ 
+
+._2{
+    width: 40%; 
+    text-align: center;
+}
+
+._3{
+    width: 20%; 
+    text-align: end;
+ }
+ 
