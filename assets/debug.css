@@ -1,12 +1,18 @@
 .Logo-links{
     background-color: #ADD8E6;
-    height: 100px;
 }
 
 .yellowbox{
     background-color: #DAA520;
     padding: 10px;
     border: 1px dashed black;
-    
 }
 
+.Description{
+    background-color: #00008B;
+}
+
+.description-box{
+    background-color: #EE82EE;
+    border: 1px dashed black;
+}
